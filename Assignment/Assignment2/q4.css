@@ -1,0 +1,23 @@
+        .container{
+    padding:20px;
+    height: 150px;
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    border:2px solid black;
+    align-items: center;
+
+}
+.box{
+    padding: 25px;
+    height: 100px;
+    width: 10px;
+    margin: 20px auto;
+    display: block;
+    justify-content:space-around;
+    background-color: rgb(110, 8, 8);
+    border:2px solid black;
+color: blue;
+}
